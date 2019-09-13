@@ -1,5 +1,21 @@
-/* Indonesia */
+.flagContainer{
+  border-width: 2px;
+  border-style: solid;
+  width: 500px;
+  margin-bottom: 25px;
+}
 
+#indonesia {
+  /* display: inline-block; */
+  height: 210px;
+  background-color: white;
+
+}
+#indonesia1{
+  background-color: red;
+  height: 105px;
+  width: 100%;
+}
 /* Colombia */
 
 /* Ireland */
