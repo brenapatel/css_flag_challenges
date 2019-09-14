@@ -16,8 +16,26 @@
   height: 105px;
   width: 100%;
 }
-/* Colombia */
+#columbia{
+  position: relative;
+  height: 250px;
+  background-color: gold;
+}
+#columbia1{
+  position: absolute;
+  height: 50px;
+  width: 100%;
+  background-color: darkblue;
+  top: 35px;
+}
+#columbia2{
+ position: absolute;
+  height: 50px;
+  width: 100%;
+  background-color: red;
+  top: 50px;
 
+}
 /* Ireland */
 
 /* France */
