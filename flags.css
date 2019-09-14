@@ -36,7 +36,25 @@
   top: 200px;
 
 }
-/* Ireland */
+#ireland{
+  position: relative;
+  height: 210px;
+  background-color: white;
+  display: flex;
+}
+#ireland1{
+  position: absolute;
+  height: 210px;
+  background-color: green;
+  width: 165px;
+}
+#ireland2{
+  position: absolute;
+  height: 210px;
+  background-color: orange;
+  width: 165px;
+  right: 0px;
+}
 
 /* France */
 
